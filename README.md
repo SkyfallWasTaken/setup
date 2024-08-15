@@ -14,6 +14,10 @@ Currently running Fedora 40 with KDE 6.
 
 ## Software
 - Rust
+- Slack
+- Spotify w/ Spicetify
+- Starship
+- Prism Launcher w/ 1.21 Fabulously Optimized
 - Microsoft Edge
 - Discord
 - Steam
