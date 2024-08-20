@@ -10,7 +10,7 @@
 
 ## Linux
 
-Currently running Fedora 40 with KDE 6.
+Currently running Fedora 40 with KDE 6 and kernel `6.10.4-200.fc40.x86_64`.
 
 ## Software
 - Rust
